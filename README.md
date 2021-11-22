@@ -5,7 +5,7 @@
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
 - 💻 3rd year CS undergrad
-- 📖 Persuing Computer Engineering from Jamia Millia Islamia
+- 📖 Pursuing Computer Engineering from Jamia Millia Islamia
 - 🤝 Looking to collaborate on Front End Web Development
 - ⭐ Google Cloud Facilitator 2021
 - 🤠 Open Source Enthusiast 
