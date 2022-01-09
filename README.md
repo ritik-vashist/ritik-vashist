@@ -16,7 +16,7 @@
 <a href="mailto:ritikvashist0109@gmail.com"><img align="left" title="Mail - Ritik Vashist" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 <a href="https://www.linkedin.com/in/ritik-vashist-963ba1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritik Vashist" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_ritik_0001_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ritik_0001_" height="30" width="40" /></a>
-<a href="https://leetcode.com/ritik0109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik0109" height="30" width="40" /></a>
+<a href="https://leetcode.com/vashist2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik0109" height="30" width="40" /></a>
 </p>
 
 
